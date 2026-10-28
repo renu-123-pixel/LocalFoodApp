@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "100265633429",
+    "project_id": "jashpurbhojan",
+    "storage_bucket": "jashpurbhojan.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:100265633429:android:2c28b1ae244e8241629d9c",
+        "android_client_info": {
+          "package_name": "com.jashpurbhojan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_S3hFdhGFQiyguvoycg68GRkfTTXBSME"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
